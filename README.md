@@ -29,22 +29,11 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-erc20-fcc
-cd hardhat-erc20-fcc
+git clone https://github.com/craig-iam-smith/hh-erc20/
+cd hh-erc20
 yarn
 ```
 
-### Typescript (Optional)
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-erc20-fcc)
 
 
 # Usage
